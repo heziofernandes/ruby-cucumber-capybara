@@ -1,6 +1,5 @@
 # encoding: utf-8
 Given(/^the administrator is logged in$/) do
-#
   visit "file:///home/hezio/dev/form-html-simple-project-cucumber/formautomacao.html"
 end
 
